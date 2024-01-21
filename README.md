@@ -30,7 +30,29 @@ Enhance your learning with these datasets:
 
 
 
+## Setting Up the Project Locally
+Follow these steps to get the project up and running on your local machine:
 
+1. Installing Dependencies:
+- Anaconda/Miniconda Installation: Begin by installing either Anaconda or Miniconda.
+- Repository Cloning:
+Clone the repository and then navigate to its root directory using these commands:
+```bash
+git clone https://github.com/mbabeykoon/TimeSeriesAnalysis.git
+cd TimeSeriesAnalysis  # Replace with the path to your folder
+```
+- Environment Setup:
+Create a new conda environment using the environment.yml file.
+```bash
+conda env create -f environment.yml
+conda activate env_name  # Replace 'env_name' with your chosen environment name
+```
+2. Running Jupyter Notebooks:
+- Accessing Notebooks:
+Go to the notebook directory where the Jupyter Notebooks are located.
+- Using Jupyter Lab/Notebook:
+Open the notebooks using Jupyter Lab or Jupyter Notebook for interactive exploration and analysis.
+Enjoy exploring and analyzing the data with these steps!
 
 
 ## Learning Resources
