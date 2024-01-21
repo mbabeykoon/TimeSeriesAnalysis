@@ -138,4 +138,4 @@ dependencies:
   - pip:
     - cython==3.0.8
     - pmdarima==2.0.4
-prefix: C:\Users\nikmb\.conda\envs\ts
+
